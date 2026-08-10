@@ -20,31 +20,30 @@ I'm a Computer Science student at **Hanyang University ERICA** with an interest 
 
 I'm currently developing my skills through university projects, team-based software development, machine learning projects, and personal projects.
 
-- 🎓 Computer Science student at Hanyang University ERICA
-- 🔐 Interested in Cybersecurity & Information Security
-- 🤖 Exploring AI & Machine Learning
-- 📊 Interested in Data Science & Data Analytics
-- 💻 Building projects with Python, Java, TypeScript and SQL
-- 🌱 Currently expanding my knowledge in cybersecurity and software engineering
-- 🇲🇾 Malaysian student based in South Korea
+- Computer Science student at Hanyang University ERICA
+- Interested in Cybersecurity & Information Security
+- Exploring AI & Machine Learning
+- Building projects with Python, Java, TypeScript and SQL
+- Currently expanding my knowledge in cybersecurity and software engineering
+- Malaysian student based in South Korea
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,html,css,sql" />
 </p>
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,anaconda,figma" />
 </p>
 
-### 📊 Data & AI
+### Data & AI
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
@@ -54,7 +53,7 @@ I'm currently developing my skills through university projects, team-based softw
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -62,11 +61,11 @@ I'm currently developing my skills through university projects, team-based softw
 | 💻 **SW-Practices** | Software development and programming practice projects from coursework. | Java / Software Engineering |
 | 📚 **Programming Methodology** | Coursework and programming exercises developed as part of university study. | Java |
 
-> 🚧 More projects are currently in development.
+> More projects are currently in development.
 
 ---
 
-## 🔐 Areas of Interest
+## Areas of Interest
 
 ```text
 Cybersecurity
@@ -80,12 +79,6 @@ Artificial Intelligence
 ├── Deep Learning
 ├── Computer Vision
 └── AI Applications
-
-Data Science
-├── Data Analysis
-├── Predictive Modeling
-├── Time-Series Analysis
-└── Data Visualization
 
 Software Development
 ├── Web Development
@@ -116,22 +109,21 @@ Software Development
 
 ---
 
-## 🎓 Education
+## Education
 
 **Hanyang University ERICA**  
-🎓 Computer Science  
-📍 Ansan, South Korea
+Computer Science  
+Ansan, South Korea
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🔐 Cybersecurity & Network Security
-- 🐍 Advanced Python
-- 🤖 Machine Learning & AI
-- 🌐 Full-Stack Web Development
-- 🗄️ Database Systems
-- 🧩 Algorithms & Data Structures
+- Cybersecurity & Network Security
+- Advanced Python
+- Machine Learning & AI
+- Full-Stack Web Development
+- Algorithms & Data Structures
 
 ---
 
