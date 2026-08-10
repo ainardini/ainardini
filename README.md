@@ -16,7 +16,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm a Computer Science student at **Hanyang University ERICA** with an interest in building practical software and exploring the intersection of **cybersecurity, artificial intelligence, data science, and software development**.
+I'm a Computer Science student at **Hanyang University ERICA** with an interest in building practical software and exploring the intersection of **cybersecurity, artificial intelligence, and software development**.
 
 I'm currently developing my skills through university projects, team-based software development, machine learning projects, and personal projects.
 
