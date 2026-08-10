@@ -14,7 +14,7 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 
 I'm a Computer Science student at **Hanyang University ERICA** with an interest in building practical software and exploring the intersection of **cybersecurity, artificial intelligence, and software development**.
 
@@ -49,7 +49,8 @@ I'm currently developing my skills through university projects, team-based softw
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-**Also working with:** NumPy • Pandas • Matplotlib • Scikit-learn • XGBoost • LightGBM • SQL
+**Also working with:**  
+NumPy • Pandas • Matplotlib • Scikit-learn • XGBoost • LightGBM • SQL
 
 ---
 
@@ -58,7 +59,7 @@ I'm currently developing my skills through university projects, team-based softw
 | Project | Description | Technologies |
 |---|---|---|
 | 🛒 **Campus Trade** | A marketplace website designed for Malaysian students in Korea to buy and sell new or used items within a student-friendly community. | TypeScript • Web Development |
-| 💻 **SW-Practices** | Software development and programming practice projects from coursework. | Java / Software Engineering |
+| 💻 **SW-Practices** | Software development and programming practice projects from coursework. | Java • Software Engineering |
 | 📚 **Programming Methodology** | Coursework and programming exercises developed as part of university study. | Java |
 
 > More projects are currently in development.
@@ -67,35 +68,40 @@ I'm currently developing my skills through university projects, team-based softw
 
 ## Areas of Interest
 
-```text
-Cybersecurity
-├── Network Security
-├── Application Security
-├── Secure Software Development
-└── Security Fundamentals
+### Cybersecurity
 
-Artificial Intelligence
-├── Machine Learning
-├── Deep Learning
-├── Computer Vision
-└── AI Applications
+- Network Security
+- Application Security
+- Secure Software Development
+- Security Fundamentals
 
-Software Development
-├── Web Development
-├── Object-Oriented Programming
-├── Git & GitHub
-└── Team-Based Development
-```
+### Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- AI Applications
+
+### Software Development
+
+- Web Development
+- Object-Oriented Programming
+- Git & GitHub
+- Team-Based Development
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ainardini&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<a href="https://github.com/ainardini">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ainardini&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainardini&layout=compact&hide_border=true&langs_count=8" />
+<a href="https://github.com/ainardini">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainardini&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
@@ -103,7 +109,19 @@ Software Development
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ainardini&hide_border=true" />
+<a href="https://github.com/ainardini">
+  <img src="https://streak-stats.demolab.com?user=ainardini&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/ainardini">
+  <img src="https://github-profile-trophy.vercel.app/?username=ainardini&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+</a>
 
 </div>
 
@@ -111,13 +129,15 @@ Software Development
 
 ## Education
 
-**Hanyang University ERICA**  
-Computer Science  
+### Hanyang University ERICA
+
+**Computer Science**
+
 Ansan, South Korea
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Cybersecurity & Network Security
 - Advanced Python
@@ -127,16 +147,30 @@ Ansan, South Korea
 
 ---
 
-## 📫 Let's Connect
+## My GitHub Journey
+
+<div align="center">
+
+<a href="https://github.com/ainardini">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainardini&hide_border=true&area=true" width="95%"/>
+</a>
+
+</div>
+
+---
+
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ainardini/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:ainhaifa97@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/ainardini">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -149,6 +183,6 @@ Ansan, South Korea
 
 ### "Building, learning, and improving one project at a time."
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! 
 
 </div>
