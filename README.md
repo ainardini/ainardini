@@ -4,7 +4,7 @@
 
 ### Computer Science Student @ Hanyang University ERICA 🇲🇾🇰🇷
 
-**Cybersecurity • Artificial Intelligence • Data Science • Software Development**
+**Cybersecurity • Artificial Intelligence • Software Development**
 
 <a href="https://github.com/ainardini">
   <img src="https://komarev.com/ghpvc/?username=ainardini&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
