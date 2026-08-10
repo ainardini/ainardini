@@ -22,8 +22,8 @@ I'm currently developing my skills through university projects, team-based softw
 
 - Computer Science student at Hanyang University ERICA
 - Interested in Cybersecurity & Information Security
-- Exploring AI & Machine Learning
-- Building projects with Python, Java, TypeScript and SQL
+- Exploring Artificial Intelligence & Machine Learning
+- Building projects with Python, Java, TypeScript, C++, and SQL
 - Currently expanding my knowledge in cybersecurity and software engineering
 - Malaysian student based in South Korea
 
@@ -56,11 +56,68 @@ NumPy • Pandas • Matplotlib • Scikit-learn • XGBoost • LightGBM • SQ
 
 ## Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🛒 **Campus Trade** | A marketplace website designed for Malaysian students in Korea to buy and sell new or used items within a student-friendly community. | TypeScript • Web Development |
-| 💻 **SW-Practices** | Software development and programming practice projects from coursework. | Java • Software Engineering |
-| 📚 **Programming Methodology** | Coursework and programming exercises developed as part of university study. | Java |
+### 🛒 Campus Trade
+
+**A student-focused marketplace platform**
+
+A marketplace website designed for Malaysian students in Korea to buy and sell new or used items within a student-friendly community.
+
+**Technologies:** TypeScript • Web Development
+
+<a href="https://github.com/ainardini/campus-trade">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 🎮 Mix & Match — Tetris Game
+
+**A modern recreation of the classic Tetris game**
+
+A Java-based Tetris game featuring multiple game modes including **Classic, Endless, and Career** modes, with block movement, rotation, line clearing, scoring, sound effects, and background music.
+
+**My Contributions:**
+- Core game implementation
+- Main menu development
+- File manager implementation
+
+**Technologies:** Java • Object-Oriented Programming • Game Development
+
+<a href="https://github.com/aliraif/Mix-Match">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 👾 Space Invaders
+
+**Classic arcade-style game implementation**
+
+A Space Invaders game developed as part of a **Software Development Practices** course, applying object-oriented programming and software development principles to build a playable game.
+
+**Technologies:** Java • Object-Oriented Programming • Software Development
+
+<a href="https://github.com/aliraif/Invaders-SDP-23292">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 💻 SW-Practices
+
+Software development and programming practice projects developed through university coursework, focusing on programming concepts, software development practices, and object-oriented programming.
+
+**Technologies:** Java • Software Engineering • OOP
+
+---
+
+### 📚 Programming Methodology
+
+Coursework and programming exercises developed as part of my university studies, focusing on programming fundamentals, problem solving, and software development methodologies.
+
+**Technologies:** Java • Programming Fundamentals
+
+---
 
 > More projects are currently in development.
 
@@ -74,6 +131,7 @@ NumPy • Pandas • Matplotlib • Scikit-learn • XGBoost • LightGBM • SQ
 - Application Security
 - Secure Software Development
 - Security Fundamentals
+- Information Security
 
 ### Artificial Intelligence
 
@@ -81,11 +139,13 @@ NumPy • Pandas • Matplotlib • Scikit-learn • XGBoost • LightGBM • SQ
 - Deep Learning
 - Computer Vision
 - AI Applications
+- Data Analysis
 
 ### Software Development
 
 - Web Development
 - Object-Oriented Programming
+- Software Engineering
 - Git & GitHub
 - Team-Based Development
 
@@ -115,12 +175,14 @@ NumPy • Pandas • Matplotlib • Scikit-learn • XGBoost • LightGBM • SQ
 
 </div>
 
-<br>
+---
+
+## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/ainardini">
-  <img src="https://github-profile-trophy.vercel.app/?username=ainardini&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainardini&hide_border=true&area=true" width="95%" />
 </a>
 
 </div>
@@ -131,7 +193,7 @@ NumPy • Pandas • Matplotlib • Scikit-learn • XGBoost • LightGBM • SQ
 
 ### Hanyang University ERICA
 
-**Computer Science**
+**Bachelor's Degree — Computer Science**
 
 Ansan, South Korea
 
@@ -144,18 +206,15 @@ Ansan, South Korea
 - Machine Learning & AI
 - Full-Stack Web Development
 - Algorithms & Data Structures
+- Secure Software Development
 
 ---
 
-## My GitHub Journey
+## What I'm Working Towards
 
-<div align="center">
+I'm currently building a strong foundation in **software engineering and cybersecurity**, while exploring how artificial intelligence can be applied to real-world problems.
 
-<a href="https://github.com/ainardini">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainardini&hide_border=true&area=true" width="95%"/>
-</a>
-
-</div>
+My goal is to develop practical projects that combine **secure software development, AI, and problem-solving**.
 
 ---
 
@@ -183,6 +242,6 @@ Ansan, South Korea
 
 ### "Building, learning, and improving one project at a time."
 
-Thanks for visiting my profile! 
+Thanks for visiting my profile! 👋
 
 </div>
