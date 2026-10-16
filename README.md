@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=150&section=header&animation=fadeIn" width="100%" alt="header" />
+
 # Hi there! 👋 I'm Ain Ardini Haifa
 
 ### Computer Science Student @ Hanyang University ERICA 🇲🇾🇰🇷
@@ -16,6 +18,8 @@
 
 ## About Me
 
+<img src="assets/your-gif.gif" align="right" width="280" alt="Coding animation" />
+
 I'm a Computer Science student at **Hanyang University ERICA** with an interest in building practical software and exploring the intersection of **cybersecurity, artificial intelligence, and software development**.
 
 I'm currently developing my skills through university projects, team-based software development, machine learning projects, and personal projects.
@@ -26,6 +30,8 @@ I'm currently developing my skills through university projects, team-based softw
 - Building projects with Python, Java, TypeScript, C++, and SQL
 - Currently expanding my knowledge in cybersecurity and software engineering
 - Malaysian student based in South Korea
+
+<br clear="right" />
 
 ---
 
@@ -188,7 +194,6 @@ A Space Invaders game developed as part of a **Software Development Practices** 
 
 ---
 
-
 ## Education
 
 ### Hanyang University ERICA
@@ -243,5 +248,7 @@ My goal is to develop practical projects that combine **secure software developm
 ### "Building, learning, and improving one project at a time."
 
 Thanks for visiting my profile! 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:0e75b6&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
