@@ -37,6 +37,12 @@ I'm currently developing my skills through university projects, team-based softw
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,html" />
 </p>
 
+### Web & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,supabase,vercel" />
+</p>
+
 ### Tools & Technologies
 
 <p>
@@ -55,6 +61,27 @@ NumPy • Pandas • Matplotlib
 ---
 
 ## Featured Projects
+
+### ⚽ Bolahh
+
+**A live futsal booking and player progression platform**
+
+A web platform for booking futsal matches and tracking player progression, built with a 4-person team and deployed on Vercel in production.
+
+**My Contributions:**
+- Redesigned the admin dashboard and mobile navigation, including a responsive admin stats grid and a dedicated admin entry point in the mobile bottom nav
+- Reworked player location filtering into a state/district picker
+- Added a friends-by-area feature
+- Restructured the edit-profile form for better mobile usability
+- Collaborated through GitHub pull requests and code reviews
+
+**Technologies:** React • Vite • Supabase • Vercel
+
+<a href="https://bolahh.com">
+  <img src="https://img.shields.io/badge/Visit%20Live%20Site-bolahh.com-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
 
 ### 🛒 Campus Trade
 
