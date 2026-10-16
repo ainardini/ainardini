@@ -34,13 +34,13 @@ I'm currently developing my skills through university projects, team-based softw
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,js,html" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,anaconda,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
 </p>
 
 ### Data & AI
@@ -50,7 +50,7 @@ I'm currently developing my skills through university projects, team-based softw
 </p>
 
 **Also working with:**  
-NumPy • Pandas • Matplotlib • Scikit-learn • XGBoost • LightGBM • SQL
+NumPy • Pandas • Matplotlib 
 
 ---
 
