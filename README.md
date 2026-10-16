@@ -103,22 +103,6 @@ A Space Invaders game developed as part of a **Software Development Practices** 
 
 ---
 
-### 💻 SW-Practices
-
-Software development and programming practice projects developed through university coursework, focusing on programming concepts, software development practices, and object-oriented programming.
-
-**Technologies:** Java • Software Engineering • OOP
-
----
-
-### 📚 Programming Methodology
-
-Coursework and programming exercises developed as part of my university studies, focusing on programming fundamentals, problem solving, and software development methodologies.
-
-**Technologies:** Java • Programming Fundamentals
-
----
-
 > More projects are currently in development.
 
 ---
