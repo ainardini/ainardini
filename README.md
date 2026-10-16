@@ -161,17 +161,6 @@ A Space Invaders game developed as part of a **Software Development Practices** 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/ainardini">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainardini&hide_border=true&area=true" width="95%" />
-</a>
-
-</div>
-
----
 
 ## Education
 
