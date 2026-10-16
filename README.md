@@ -46,7 +46,7 @@ I'm currently developing my skills through university projects, team-based softw
 ### Data & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
 **Also working with:**  
