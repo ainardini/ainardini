@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0e75b6&height=120&section=header&text=ainardini&fontColor=ffffff&fontSize=44&fontAlignY=50" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+Ain+Ardini+Haifa;CS+student+%40+Hanyang+University+ERICA;Cybersecurity+%7C+AI+%7C+Software+Dev;Malaysian+in+South+Korea+%F0%9F%87%B2%F0%9F%87%BE%F0%9F%87%B0%F0%9F%87%B7" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&height=40&duration=3000&pause=1200&repeat=true&color=2EA44F&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+Ain+Ardini+Haifa;CS+student+%40+Hanyang+University+ERICA;Cybersecurity+%7C+AI+%7C+Software+Dev;Malaysian+in+South+Korea" alt="Typing intro" />
 
 <br />
 
@@ -12,7 +12,14 @@
 
 <br />
 
-<img src="coding.gif" align="left" width="240" alt="Coding animation" />
+<table>
+<tr>
+<td width="260" align="center" valign="middle">
+
+<img src="coding.gif" width="240" alt="Coding animation" />
+
+</td>
+<td valign="top">
 
 ### `> about_me`
 
@@ -24,7 +31,9 @@ I build practical software and I'm exploring where **cybersecurity**, **AI**, an
 - 🔐 Digging into network security and secure software development
 - 🗣️ Malay (native) · English (fluent) · Korean (TOPIK 4)
 
-<br clear="left" />
+</td>
+</tr>
+</table>
 
 ---
 
