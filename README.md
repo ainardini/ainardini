@@ -12,7 +12,7 @@
 
 <br />
 
-<img src="assets/your-gif.gif" align="left" width="240" alt="Coding animation" />
+<img src="coding.gif" align="left" width="240" alt="Coding animation" />
 
 ### `> about_me`
 
